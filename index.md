@@ -1,4 +1,4 @@
-# Hi. I'm an emotional wreck trying to code :sob:
+# Hi. I'm an emotional wreck trying to code.
 
 # This is my second project
 
@@ -14,5 +14,5 @@
 
 ## Here is how I feel..
 
-[ hello-wordd](https://github.com/abbymorrow/hello-world)
+[ hello-world](https://github.com/abbymorrow/hello-world)
 ![Rock Bottom](images/pic1.png)
