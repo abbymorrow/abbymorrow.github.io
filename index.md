@@ -14,5 +14,5 @@
 
 ## Here is how I feel..
 
-[ hello-wolrd](https://github.com/abbymorrow/hello-world)
+[ hello-wordd](https://github.com/abbymorrow/hello-world)
 ![Rock Bottom](images/pic1.png)
